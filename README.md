@@ -5,8 +5,8 @@
 ### Запуск
 Единственное требование для запуска это версия python старше 3.7
 
-  python3 fib.py
-  python3 work.py
+   python3 fib.py
+   python3 work.py
 
 *fib.py* - Решение задачи про числа Фибоначчи
 
